@@ -1,0 +1,35 @@
+html{
+    background: white;
+}
+body {
+    margin: 0;
+    text-align: center;
+    height: 310px;
+    width: 500px;
+    background: linear-gradient(orange, red);
+}
+h3{
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: rgb(80, 231, 80);
+    border: 2px solid pink;
+    padding: 7px;
+}
+
