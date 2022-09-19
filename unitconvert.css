@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+
+.head {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+.main {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+.section {
+    background: white;
+    padding: 5px;
+}
