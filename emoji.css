@@ -1,0 +1,62 @@
+html {
+    height: 100vh;
+    font-family: Courier New;
+}
+
+body {
+    padding: 10px;
+    background-image: linear-gradient(#e446af, rgb(104, 248, 60));
+}
+
+#emojicontainer {
+    margin: 40px;
+    text-align: center;
+}
+
+#emojicontainer span {
+    margin: 10px;
+    font-size: 60px;
+}
+
+#push-btn,#unshift-btn {
+    background-color: #913ec2;
+}
+
+#shift-btn,#pop-btn {
+    background-color: #eb1111;
+}
+
+h1 {
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+}
+
+input {
+    margin: 0 auto;
+    display: block;
+    border: none;
+    height: 30px;
+    background: white;
+    border-radius: 6px;
+    text-align: center;
+}
+
+button {
+    font-family: Courier New;
+    font-size: 25px;
+    letter-spacing: 1px;
+    background: darkcyan;
+    color: white;
+    border: none;
+    padding: 4px 10px;
+    border-radius: 6px;
+    margin: 0 4px;
+}
+
+.buttons-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 40px;
+}
+
